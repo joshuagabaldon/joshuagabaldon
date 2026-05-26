@@ -1,4 +1,4 @@
-### Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joshua, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h2>
+# Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joshua, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h2>
 
 # 💫 About Me:
 Aspiring IT Support professional focused on hands-on learning through Active Directory, Azure, Windows Server, and help desk lab environments. Currently pursuing a Bachelor’s degree in Information Technology Management at WGU while building real-world IT support projects and technical skills.
