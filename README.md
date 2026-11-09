@@ -4,13 +4,11 @@
 Aspiring IT Support professional focused on hands-on learning through Active Directory, Azure, Windows Server, and help desk lab environments. Currently pursuing a Bachelor’s degree in Information Technology Management at WGU while building real-world IT support projects and technical skills.
 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 👨‍💻 Information Technology Projects:
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshuagabaldon/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshuagabaldon/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshuagabaldon/ticket-lifecycle)
-- <b>Active Directory</b>
+- **Active Directory**
+  - [Active Directory: Domain Setup and User Management](https://github.com/joshuagabaldon/JoshTech-Active-Directory-Lab)
+
   
 
 <h2>🤳Connect with me:</h2>
