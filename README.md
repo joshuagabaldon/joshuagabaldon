@@ -11,8 +11,7 @@ Aspiring IT Support professional focused on hands-on learning through Active Dir
   - [osTicket: Post-Installation Configuration](https://github.com/joshuagabaldon/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshuagabaldon/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshuagabaldon/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshuagabaldon/azure-network-protocols)
+  
 
 <h2>🤳Connect with me:</h2>
 
