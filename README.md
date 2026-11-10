@@ -8,7 +8,7 @@ Aspiring IT Support professional focused on hands-on learning through Active Dir
 
 - **Active Directory**
   - [Active Directory: Domain Setup and User Management](https://github.com/joshuagabaldon/JoshTech-Active-Directory-Lab)
-
+  - [Active Directory: Windows 11 Domain Join & Authentication](https://github.com/joshuagabaldon/Windows-11-Domain-Join-Authentication) 
   
 
 <h2>🤳Connect with me:</h2>
